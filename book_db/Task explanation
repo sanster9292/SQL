@@ -1,0 +1,7 @@
+* This is the code I wrote to create a database using MYSQL. 
+* The purpose of this database is to keep record of all the books that i read.
+* There are four columns in this database titled ID|Author|Genre|Thoughts
+* ID is generated automatically to serve as a primary key.
+  Author is the name of the author(s).
+  Genre takes upto three descriptive genres that each book might fit into.
+  Thoughts takes quick musings that I had about the book. 
