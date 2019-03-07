@@ -38,7 +38,7 @@ def main():
     book_db = mysql.connector.connect(
         host = "localhost",
         user= "root",
-        passwd = "Adeline61",
+        passwd = "PASSWORD",
         database = "books")
 
 
